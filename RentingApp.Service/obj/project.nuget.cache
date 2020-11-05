@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4DEAFYEG8Z0FzlFX8Et3TOvw1Jv8bR8PKYaaXDn4+3vJLOA7QHmdJZcwkObExApKMB41CLyu0QfHLl8BWoJyoQ==",
+  "success": true,
+  "projectFilePath": "C:\\code workcamp\\iXeonTechnologies\\RentingApp.Service\\RentingApp.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Wahib N\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
